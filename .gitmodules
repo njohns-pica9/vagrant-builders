@@ -1,0 +1,4 @@
+[submodule "centos-vm"]
+	path = packer/centos-vm
+	url = git@github.com:njohns-pica9/centos-vm.git
+	branch = add_provisioning

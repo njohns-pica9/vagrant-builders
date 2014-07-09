@@ -1,0 +1,1 @@
+0 1 * * * root /usr/local/bin/composer selfupdate && chown vagrant:vagrant /usr/local/bin/composer
